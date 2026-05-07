@@ -1,1 +1,2 @@
 # Estudios ambientales de los ductos en Argentina.
+Proyecto de análisis de datos y visualización desarrollado sobre estudios ambientales de ductos en Argentina, utilizando técnicas de normalización de bases de datos, modelado relacional y dashboards interactivos en Power BI. El informe analiza la distribución geográfica de ductos, empresas involucradas, tipos de estudios ambientales y evolución temporal de los estudios realizados.
